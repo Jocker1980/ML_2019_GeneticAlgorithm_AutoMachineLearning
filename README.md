@@ -1,11 +1,11 @@
 # Genetic Algorithm for hyperparameter optimization
 Exploring AutoML with genetic algorithm. TPOT for hyperparameter optimization.
 
-TPOT (Tree-based Pipeline Optimisation Technique) is a library for autoML. I particularly like the fact that it could use genetic programming to optimize hyperparameters. When learning about grid search I was wondering how to includ more than the hyperparameters in the search space as the other aspect like the feature engineering will also influence the score. I think I found it in TPOT.
+TPOT (Tree-based Pipeline Optimisation Technique) is a library for autoML. I particularly like the fact that it could use genetic programming to optimize hyperparameters. When learning about Grid Search I was wondering how to include more than the hyperparameters in the search space as the other aspect like the feature engineering will also influence the score. I think I found it in TPOT.
 
-Moreover I am learning in a contimuous manner through other couses and internet and I learnt that Grid Search is now obsolete regarding the performance. Despite it is a good start to learn or for algorithms with a few hyperparameter, there are better technics such as Random Search or Bayesian optimization and recently a novel bandit-based approach.
+Moreover I am learning in a continuous manner through other courses and internet and I learnt that Grid Search is now obsolete regarding the performance. Despite it is a good start to learn or for algorithms with a few hyperparameter, there are better techniques such as Random Search or Bayesian Optimization and recently a novel Bandit-Based approach.
 
-ML or DL are fast changing/progressing fields and it is part of the game to follow new techniques to not be late. I know I still have everything to learn even several basics, to not say: "I neither know nor think that I know". But in // to fulfilling the basic gaps I want to stay in touch with the last public ML/DL progresses.
+ML or DL are fast changing/progressing fields and it is part of the game to follow new techniques to not be late. I know I still have everything to learn even several basics, to not say: "I neither know nor think that I know". But in // to progressing on the basics I want to stay in touch with the last public ML/DL progresses.
 
 Here is a paper "Toward the automated analysis of complex diseases in genome-wide association studies using genetic programming" to better explain where it comes from and how it works.
 
